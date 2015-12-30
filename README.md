@@ -5,8 +5,8 @@
 - Try my best forever.
 - test
 
- ** ABC **
- * abc *
+This is **ABC** text.
+This is *abc* text.
 
 >test abc
 
